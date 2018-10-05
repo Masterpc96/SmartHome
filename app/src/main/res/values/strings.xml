@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="settings">ustawienia</string>
+    <string name="progress">roleta zapuszczona w</string>
+    <string name="waiting">silnik pracuje</string>
+    <string name="save">zapisz</string>
+    <string name="ip">adres ip</string>
+    <string name="noCon">Brak połączenia z ESP8266</string>
+    <string name="noCal">Roleta jest nieskalibrowana</string>
+    <string name="timeUp">Godzina podniesienia</string>
+    <string name="timeDown">Godzina opuszczenia</string>
+    <string name="wholeWeek">Czy zastosować na cały miesiąc?</string>
+    <string name="theSameTime">Czas otwarcia nie może być taki sam jak czas zamknięcia</string>
+    <string name="day">Dzień</string>
+    <string name="down">Godzina opuszczenia</string>
+    <string name="up">Godzina podniesienia</string>
+    <string name="plan">Zaplanuj</string>
+    <string name="chooseDay">Musisz najpierw wybrać dzień</string>
+    <string name="error">Coś poszło nie tak, proszę spróbować ponownie</string>
+</resources>
